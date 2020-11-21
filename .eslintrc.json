@@ -15,5 +15,7 @@
   "rules": {
     "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
     "linebreak-style": "off"
+    // "react/jsx-props-no-spreading": ["error", { "custom": "ignore" }],
+    // "react/prop-types": 0
   }
 }
